@@ -6,7 +6,7 @@
 body{
     height: 100vh;
     box-sizing: border-box;
-    background: url('../img/sukunaback.jpg');
+    background: url('img/sukunaback.jpg');
     background-position: 60px -42px;
     background-size: cover;
 }
